@@ -13,3 +13,5 @@ This project analyzes employee data using Python (Pandas).   It calculates salar
 - Group employees by department and calculate:
   - Total salary per department.
   - Average salary per department.
+![Output 1](output1.png)
+![Output 2](output2.png)
